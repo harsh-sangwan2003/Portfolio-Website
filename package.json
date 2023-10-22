@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "- [Link]()",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh-sangwan2003/Portfolio-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh-sangwan2003/Portfolio-Website/issues"
+  },
+  "homepage": "https://github.com/harsh-sangwan2003/Portfolio-Website#readme",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
